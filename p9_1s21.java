@@ -4,7 +4,7 @@ public class p9_1s21{
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		String operacion;
-		System.out.println("Que tipo de operacion deseas realizar");
+		System .out.println("Que tipo de operacion deseas realizar");
 		System.out.println("escribela: suma, resta, division, multiplicacion");
 		operacion = teclado.nextLine();
 		if (operacion.equals("suma")){

@@ -68,7 +68,7 @@ public class p11_1s21{
         	System.out.println("ingresa el valor del exponente");
         	e = numero.nextInt();
         	potencia= Math.pow(b,e);
-        	System.out.println(" El resultado es:" + resultado);
+        	System.out.println(" El resultado es:" );
         	System.out.println(potencia);
         
 
@@ -77,7 +77,7 @@ public class p11_1s21{
         	System.out.println("Ingrese un numero para obtener su raiz cuadrada");
         	n= numero.nextDouble();
         	raiz=Math.sqrt(n);
-        	System.out.println("El resultado es:" + resultado);
+        	System.out.println("El resultado es:" );
         	System.out.println(raiz);
 
         }
